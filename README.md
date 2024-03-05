@@ -30,7 +30,7 @@ Take a look around and use this as a playground. Be sure you understand how to:
 If you think you're ready, try this quick task and answer the following questions. No need to record your answers.
 
 1. Run `make run`.
-    - What is the output? What file that was run?
+    - What is the output? What application was run? What file generated the output?
 2. Edit the file run in 1. and insert your name in the output.
 3. Run `make test`
     - What test broke? What file did the test break in?
